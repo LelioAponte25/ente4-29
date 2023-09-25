@@ -1,0 +1,32 @@
+.container__title {
+    font-size: 50px;
+    margin: 10px;
+}
+
+.crud {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(255, 119, 237);
+    box-shadow: 4px 4px 4px rgba(29, 28, 28, 0.795);
+    color: white;
+    padding: 30px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+
+/*btn de crear los nuevos usuarios*/
+.btn__formuser {
+    position: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8px;
+    border-radius: 5px;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    box-shadow: 4px 4px 4px rgba(92, 90, 90, 0.795);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
